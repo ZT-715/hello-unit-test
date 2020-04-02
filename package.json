@@ -1,0 +1,22 @@
+{
+  "name": "hello-unit-test",
+  "version": "1.0.0",
+  "description": "trying to use Jest",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZT-715/hello-unit-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZT-715/hello-unit-test/issues"
+  },
+  "homepage": "https://github.com/ZT-715/hello-unit-test#readme",
+  "devDependencies": {
+    "jest": "^25.2.6"
+  }
+}
